@@ -1,0 +1,65 @@
+.filtros{
+	
+    display: inline-block;
+    margin: 0 700px;
+    text-align: center;
+    
+}
+
+.filtros .filtroContinente{
+	margin-right: 10px;
+    display: inline-block;
+	font-size: 15px;
+    border: none;
+    background-color: #AAB6B9;
+    color: #14302e;
+    padding: 6px;
+    font-weight: bolder;
+   
+}
+ .filtroContinente:hover{
+    color: #665d52;
+	background-color: #707070;
+    color: white;
+    
+ }
+ .filtroContinente{
+    width: 210px;
+    margin: auto;
+    margin-top: 5px;
+    display: inline-block;
+    border-radius: 2%;
+    
+ }
+.filtroActividades .filtroContinente{
+    display: block;
+    justify-content: center;
+    position: absolute;
+    float: none;
+}
+ .filtroActividades{
+     width: 210px;
+     margin: auto;
+     margin-top: 5px;
+     display: inline-block;
+     border-radius: 2%;
+ }
+
+.filtros .filtroActividades{
+   
+	font-size: 15px;
+    border: none;
+    background-color: #AAB6B9;
+    color: #14302e;
+    padding: 6px;
+    font-weight: bolder;
+    
+}
+
+.filtroActividades:hover{
+   
+        color: #665d52;
+        background-color: #707070;
+        color: white;
+     
+}

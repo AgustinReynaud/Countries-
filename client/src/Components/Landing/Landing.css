@@ -1,0 +1,38 @@
+.ContenedorLanding{
+    /*  background-image: url("https://https://cutewallpaperhd.com/wp-content/uploads/2020/09/Food-Background-Wallpaper.jpg.com/wp-content/uploads/2020/09/Food-Background-Wallpaper.jpg"); */
+     background-image:url('../Images/Landing.jpg');
+     width: 100%;
+     position: fixed;
+     height: 100%;
+ }
+ 
+ .TituloLanding{
+     color: rgb(246, 246, 156);
+     text-align: center;
+     margin-top: 300px;
+     font-size: 70px;
+     font-family: 'Alegreya', serif;
+ }
+ 
+ .BotonLanding{
+    
+         color: #ffffff !important;
+         font-size: 40px;
+         font-weight: 500;
+         padding: 0.5em 1.2em;
+         background: rgba(255, 238, 89, 0);
+         border: 2px solid;
+         border-color: #eaf63f;
+         transition: all 1s ease;
+         position: relative;
+         float: none;
+         display:block;
+         margin-left: auto;
+         margin-right: auto;
+       }
+       .BotonLanding:hover {
+         background: #ffee02;
+         color: rgb(164, 182, 2) !important;
+         border-radius: 19px;
+       }
+ 

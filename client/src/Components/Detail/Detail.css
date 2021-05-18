@@ -1,0 +1,45 @@
+.contenidoP{
+    text-align: center;
+   
+    background-image: url('../Images/3874.jpg');
+}
+.imagenn{
+    margin: 0 auto;
+}
+
+.Tarjeta{
+    text-align: center;
+    width: 270px;
+	height: 350px;
+    box-shadow: 2px 2px 10px black;
+    width: 21%;
+    margin: 0 auto;
+    font-family: 'Dancing Script', cursive;
+    flex-direction: column;
+	justify-content: space-around;
+    background-color: darkgray;
+   /*  float: right; */
+}
+
+.Tarjeta:hover{
+    background-color:rgb(95, 95, 95);
+	transition-duration: 0.1s
+}
+.Tarjeta1{
+    text-align: center;
+    width: 320px;
+	height: 600px;
+    box-shadow: 2px 2px 10px black;
+    width: 21%;
+    margin: 0 auto;
+    font-family: 'Dancing Script', cursive;
+    flex-direction: column;
+	justify-content: space-around;
+    background-color: darkgray;
+/*     float: right; */
+}
+.Tarjeta1:hover{
+    
+	background-color:rgb(95, 95, 95);
+	transition-duration: 0.1s
+}

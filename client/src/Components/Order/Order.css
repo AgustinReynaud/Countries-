@@ -1,0 +1,42 @@
+.divG{
+    display: inline-block;
+    margin: 0 700px;
+    text-align: center;
+    
+}
+.Alpha{
+    margin-top: 10px;
+    width: 210px;
+    margin-right: 10px;
+    display: inline-block;
+	font-size: 15px;
+    border: none;
+    background-color: #AAB6B9;
+    color: #14302e;
+    padding: 6px;
+    font-weight: bolder;
+   
+}
+ .Alpha:hover{
+    color: #665d52;
+	background-color: #707070;
+    color: white;
+}
+
+.population{
+    width: 210px;
+    margin-right: 10px;
+    display: inline-block;
+	font-size: 15px;
+    border: none;
+    background-color: #AAB6B9;
+    color: #14302e;
+    padding: 6px;
+    font-weight: bolder;
+   
+}
+ .population:hover{
+    color: #665d52;
+	background-color: #707070;
+    color: white;
+}

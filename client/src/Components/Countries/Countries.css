@@ -1,0 +1,40 @@
+.contenedor{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	margin-bottom: 80px;
+
+}
+
+/* .paginationBtns{
+	margin-top: 40px;
+	width: 80%;
+	height: 40px;
+	display: flex;
+	justify-content: center;
+	cursor: pointer;
+	background: white;
+	
+	
+} */
+.paginationBtns{
+	border: 1px dotted springgreen;
+  text-align: center;
+ display: table-cell
+ /*  height: 20%; */
+/*   width: 100% */;
+margin-bottom: 600px;
+  bottom: 30px;
+  position: absolute;
+  background: lightblue;
+  display: block;
+  margin: 0px ;
+  top: 100%;
+  margin-top: 125px;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.numeroPag{
+	color: white;
+}

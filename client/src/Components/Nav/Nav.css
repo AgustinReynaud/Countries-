@@ -1,0 +1,81 @@
+.Nav{
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    width: 100%;
+    justify-content:space-between;
+   /*  background-color: transparent !important; */
+   right: 0;
+   left: 0;
+   z-index: 9999;
+   margin: 0;
+   width: 100%;
+   background: rgba(0,0,0,0.92);
+   font-size: 17px;
+   
+}
+
+.Boton{
+    
+    font-size: 12px;
+    border-radius: 19px;
+    width: 90px;
+    height: 50px;
+    margin-top: 9px;
+    margin-right: 20px;
+
+}
+
+.Boton:hover {
+    background-color: #c4da02; /* Green */
+    color: white;
+}
+
+.Tittle{
+ cursor: pointer;
+ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+text-decoration: none;
+color: rgb(255, 255, 255);
+}
+
+.Image{
+    width: 23px;
+    height: 23px;
+    display: block;
+    position: absolute;
+    margin-top: 23px;
+    margin-left: 1310px;
+    color: white;
+ 
+}
+
+.Image2{
+    width: 32px;
+    height: 20px;
+    display: block;
+    position: absolute;
+    margin-top: 23px;
+    margin-left: 1500px;
+    cursor: pointer;
+    color: rgb(255, 255, 255);
+}
+.H3{
+    margin-right: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 23px;
+    justify-content: space-between;
+   
+    cursor: pointer;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.img{
+    width: 10px;
+    height: 10px;
+}
+.image{
+    cursor: pointer;
+    margin-left: 40px;
+    margin-top: 10px;
+}

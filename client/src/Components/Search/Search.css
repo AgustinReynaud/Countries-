@@ -1,0 +1,24 @@
+.button{
+    
+  
+    /* margin-top: 15px; */
+    margin-left: 20px;
+}
+.input{
+    width: 960px;
+    margin: 0 auto;
+ /*    margin-left: 400px; */
+    width:40%;
+    padding:10px;
+    box-sizing:border-box;
+    background:none;
+    outline:none;
+    resize:none;
+    border:0;
+    font-family:'Montserrat',sans-serif;
+    transition:all .3s;
+    border-bottom:2px solid #bebed2;
+    text-align: center;
+    color: white;
+  
+}
