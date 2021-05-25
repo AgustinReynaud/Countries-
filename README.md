@@ -1,4 +1,4 @@
-#The Worlds and Countries!
+#The World and Countries!
 
 Aplicacion desarrollada por Agustin Reynaud 
 
