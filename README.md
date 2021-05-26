@@ -20,3 +20,11 @@ Landing Page:
 Home: 
 ![Test Image 1](https://github.com/AgustinReynaud/AgustinReynaud/blob/main/Images/c2.png)
 
+Create Activity: 
+
+![Test Image 1](https://github.com/AgustinReynaud/AgustinReynaud/blob/main/Images/c3.png)
+
+Detail Country:
+
+![Test Image 1](https://github.com/AgustinReynaud/AgustinReynaud/blob/main/Images/c4.png)
+
